@@ -9,6 +9,10 @@
 ```shell
 git clone https://github.com/ElixirStudy0730/phoenix_webpack2.git
 cd phoenix_webpack2
+npm install
+webpack
+mix ecto.create
+mix phoenix.server
 ```
 
 ## Change build tool in existing project
