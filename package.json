@@ -20,7 +20,7 @@
   "devDependencies": {
     "webpack": "^2.2.1",
     "webpack-browser-plugin": "^1.0.20",
-    "webpack-bundle-analyzer": "^2.3.0",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-middleware": "^1.10.0",
     "webpack-hot-middleware": "^2.16.1",
     "webpack-merge": "^3.0.0"
